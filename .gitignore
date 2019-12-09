@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules
+.vscode
+# Coverage directory used by tools like istanbul
+coverage
+
+# Operating system files
+.DS_Store
+
+# Logs
+logs
+
+#build
+build
